@@ -1,0 +1,12 @@
+{
+"id": "Blue-Paddle",
+  "name": "Blue Paddle Bistro",
+  "address": "316 US 2 South Hero, VT.",
+  "phone": "(802) 372-4814",
+  "hours": "5 to 8pm Tuesday through Sunday, Closed Monday",
+  "lat": [44.64645495],
+  "lon": [-73.30783472], 
+  "notes": [
+    "A true Bistro, very good food and very popular. Make sure to reserve a place. Pandemic has reduced the numbers allowed. Summer hours have an out door tent."
+  ]
+}
